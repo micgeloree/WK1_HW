@@ -12,7 +12,10 @@ footer {
 }  
 
 figure {
-    border: 4px solid blanchedalmond;
-    padding: 10px;
-    margin: 15px;
+  /* for  photos */
+  float: right;
+margin-top: 0px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
 }
