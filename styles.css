@@ -9,6 +9,10 @@ footer { color: yellowgreen;}
   max-width: 960px;
 }
 
+header {
+  text-align: center;
+}
+
 figure {
   float: right;
   /* for  photos */
