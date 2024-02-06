@@ -1,21 +1,17 @@
-h1 {
-    color: red;
-  }
-  p {
-    color: green;
-  }
-  H3 {
-    color:black;
-  }
-footer {
-    color: yellowgreen;
-}  
+h1 { color: red;}
+  p { color: green;}
+  H3 { color:black; }
+footer { color: yellowgreen;}  
 
 figure {
-  /* for  photos */
   float: right;
+  /* for  photos */
 margin-top: 0px;
 margin-bottom: 20px;
 margin-left: 20px;
 margin-right: 20px;
+}
+
+section { 
+  clear: both;
 }
