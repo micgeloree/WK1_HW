@@ -1,5 +1,5 @@
 h1 { color: red;}
-  p { color: green;}
+  p { color: black;}
   H3 { color:black; }
 footer { color: yellowgreen;}  
 
@@ -17,6 +17,7 @@ body {
 }
 
 header {
+  font-size: 25px;
   text-align: center;
 }
 
