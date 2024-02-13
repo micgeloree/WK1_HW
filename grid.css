@@ -69,7 +69,7 @@ body {
 
 .main_nav a:hover {
   text-decoration: underline;
-  text-decoration-color: rgb(200, 255, 0);
+  text-decoration-color: orange;
   text-decoration-thickness: 3px;
   text-underline-offset: 6px;
 }
@@ -182,14 +182,6 @@ margin-bottom: 20px;
 
 .Point 5 .text {
   margin-right: 40px;
-}
-
-ul {
-  font-style: italic;
-}
-
-li {
-  margin-bottom: 0px;
 }
 
 footer {
